@@ -1,4 +1,4 @@
-git rm -f readme.md 
+git rm -f r
 
 
 <!---
